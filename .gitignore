@@ -1,0 +1,11 @@
+# Fichiers de travail : jamais publiés (le dépôt est public et la surprise doit le rester)
+references/
+docs/
+tools/
+captures/
+.claude/
+CLAUDE.md
+.mcp.json
+node_modules/
+package.json
+package-lock.json
